@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF2F7&width=435&lines=BEM+VINDO!)](https://git.io/typing-svg)
-- 👀 I’m interested in Iac, Terraform, Docker, Linux, Python
-- 🌱 I’m currently learning Iac, Terraform, Ansible, Docker
+- 👀 I’m interested in PHP, Docker, Linux, Python
+- 🌱 I’m currently learning PHP. 
 - 📫 How to reach me Cristhiano.cunha@gmail.com
 
 # 📊 GitHub Stats:
