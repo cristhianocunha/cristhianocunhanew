@@ -13,7 +13,5 @@
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/sql-%23FF9900.svg?style=for-the-badge&logo=sql-aws&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23092E20.svg?style=for-the-badge&logo=Laravel&logoColor=white) 
-
-
 <div>
 
