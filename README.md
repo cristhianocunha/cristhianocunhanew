@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF2F7&width=435&lines=BEM+VINDO!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OL%C3%A1+mundo)](https://git.io/typing-svg)
 - 👀 I’m interested in PHP, Docker, Linux, Laravel
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me cristhiano.cunha@gmail.com
